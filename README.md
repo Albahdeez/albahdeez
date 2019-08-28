@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a>Kross Creative Portfolio Template (MIT License)</a></h1>
+<h1><a>El portfolio de Alba</a></h1>
 </div>
 
 <div align="center">
