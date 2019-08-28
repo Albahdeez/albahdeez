@@ -78,6 +78,10 @@ input, select, textarea {
 		margin-top: 1em;
 	}
 
+	p.saltos {
+		margin-top: 1em;
+	}
+
 	html {
 		box-sizing: border-box;
 	}
